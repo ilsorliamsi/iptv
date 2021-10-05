@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/b4l0w2m.png" group-title="Thailand",Thai PBS 3
 http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Thailand",ASTV News 1,News 1
-http://news1.live14.com/stream/news1_hi.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="KH;TH" tvg-logo="https://i.imgur.com/2jbulL2.jpg" group-title="Thailand",Bayon TV,bTV News
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Thailand",News 1
